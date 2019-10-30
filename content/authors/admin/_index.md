@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xuemei Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate of Applied Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include Agricultural Economics, Food Policy, and Applied Econometrics
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Microeconomics
+- Food Policy
+- Applied Econometrics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied Economics
+    institution: University of California, Davis
+    year: 2020 Expected
+  - course: MS in Applied Economics
+    institution: University of California, Davis
+    year: 2014
+  - course: BSc in Economics
+    institution: Northwest A&F University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
