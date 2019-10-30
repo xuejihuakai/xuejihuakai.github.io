@@ -19,26 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Student Researcher"
-  company = "University of California, Davis"
+  company = "Department of Agricultural and Resource Economics, UC Davis"
   company_url = ""
   location = "Davis, CA"
   date_start = "2014-09-01"
   date_end = ""
-  description = """
+  description = "Advisor: Richard Sexton""
   Responsibilities include:
   
-  * Analysing
+  * Responsible for data cleaning, data analysis, econometric model construction, hypothesis testing,
+and results visualization.
   * Modelling
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Applied Data Scientist and Research Intern"
+  company = "NHH Factory"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "China"
+  date_start = "2016-06-24"
+  date_end = "2016-09-20"
+  description = """Used SQL and Tableau to build dashboards to demonstrate company's performance in various as-
+pects."""
 
 +++
