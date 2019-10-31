@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate of Applied Economics
+role: Ph.D. Candidate of Applied Economics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Agricultural Economics, Food Policy, and Applied Econometrics
+bio: My research interests include Applied microeconomics, Food Policy, and Applied Econometrics
 interests:
 - Applied Microeconomics
 - Food Policy
@@ -26,13 +26,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Applied Economics
+  - course: Ph.D. in Applied Economics
     institution: University of California, Davis
     year: 2020 Expected
-  - course: MS in Applied Economics
+  - course: M.S. in Applied Economics
     institution: University of California, Davis
     year: 2014
-  - course: BSc in Economics
+  - course: B.A. in Economics
     institution: Northwest A&F University
     year: 2013
 
@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Xuemei Li is a PHD candidate in applied & resource economics at the University of California at Davis. My research uses large scale supermarket scanner data and WIC (a food assistance program) redemption data to estimate the causal impacts of various policies on WIC program participation, food cost, and participant satisfaction.
+Xuemei Li is a PHD candidate in applied & resource economics at the University of California at Davis. Her research uses large scale supermarket scanner data and WIC (a food assistance program) redemption data to estimate the causal impacts of various food policies on WIC program participation, food cost, and participant satisfaction.
