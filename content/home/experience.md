@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "Davis, CA"
   date_start = "2014-09-01"
   date_end = ""
-  description = "Advisor: Richard Sexton""
-  
+  description = """
+  "Advisor: Richard Sexton"
   * Responsible for data cleaning, data analysis, econometric model construction, hypothesis testing,
 and results visualization.
   * Modelling
@@ -40,7 +40,7 @@ and results visualization.
   date_start = "2016-06-24"
   date_end = "2016-09-20"
   description = """Used SQL and Tableau to build dashboards to demonstrate company's performance in various as-
-pects.""" Designed and performed several A/B tests to help promote sticker apps. The app conversion rate
+pects. Designed and performed several A/B tests to help promote sticker apps. The app conversion rate
 increased by 12% over 4 months. """
 
 
